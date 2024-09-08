@@ -1,0 +1,6 @@
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/rebuild_cache.dir
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/edit_cache.dir
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/tests.dir
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/test-Project.dir
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/sanitizer.dir
+/home/zj/workspace/latest_trento_h5/trento3d_subnucleon/test/build/CMakeFiles/catch.dir

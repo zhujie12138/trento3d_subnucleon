@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+e5eb42750fc34a03827e70e83ff0faf1 ../catch.hpp
+50873f0636c4f1d16dd948434d219fa8 CMakeFiles/catch
+0be7b9f648acab7e7f30d6aca1841084 CMakeFiles/sanitizer
